@@ -1,6 +1,5 @@
-# hello-world
+# EXAMEN
 
-Hi Humans!
+## Este es el resultado de mi esfuerzo aprendiendo **GIT**
 
-Rachel here, I like Node.js and Coffeescritpt (that's what I'm made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+[Mi cuenta de GitHub](http://github.com)  :+1:
